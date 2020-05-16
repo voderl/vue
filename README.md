@@ -3,7 +3,7 @@
 ## setup
 
 > yarn
-> npm run dev => vue.js to ./template/libs/vue.js
+> npm run dev => render to ./template/libs/vue.js
 > cd template
 > npm install
 > npm run serve
